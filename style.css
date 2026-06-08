@@ -45,7 +45,7 @@ button:before {
 
 button:hover:before {
   left: 0; 
-
+}
 
 button:after {
   content: ""; 
@@ -56,7 +56,7 @@ button:after {
   height: 4px; 
   background-color: white; 
   transition: all 0.5s;
-
+}
 
 button:hover:after {
   right: 0;
